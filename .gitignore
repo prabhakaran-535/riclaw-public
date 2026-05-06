@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.codex
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.swp
+._*
+/jobs/
+/projects/
+*.log
